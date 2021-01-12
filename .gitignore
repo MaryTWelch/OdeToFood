@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1
+/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages
+/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/staticwebassets
+/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.csproj.CopyComplete
+/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.csproj.CoreCompileInputs.cache
+/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.csproj.FileListAbsolute.txt
+/OdeToFood/OdeToFood/obj/*
+/OdeToFood/OdeToFood/bin/*
