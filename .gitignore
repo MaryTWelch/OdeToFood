@@ -10,3 +10,5 @@
 /OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.csproj.FileListAbsolute.txt
 /OdeToFood/OdeToFood/obj/*
 /OdeToFood/OdeToFood/bin/*
+
+*.suo
